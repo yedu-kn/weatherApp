@@ -1,0 +1,62 @@
+.errorStyle{
+    color: white;
+}
+
+  .nightRain{
+    background: url('./assets/nightRain.jpg');
+    color:white;
+  }
+  
+  .dayRain{
+    background: url('./assets/dayRain.jpg');
+    color:black;
+  }
+  
+  .nightSnow{
+    background: url('./assets/nightSnow.jpg');
+    color:white;
+  }
+  
+  .daySnow{
+    background: url('./assets/daySnow.jpg');
+    color:black;
+  }
+  
+  .nightClear{
+    background: url('./assets/nightClear.jpg');
+    color:white;
+  }
+  
+  .dayClear{
+    background: url('./assets/dayClear.jpg');
+    color: black;
+  }
+  
+  .nightFog{
+    background: url('./assets/nightFog.jpg');
+    color: white;
+  }
+  
+  .dayFog{
+    background: url('./assets/dayFog.jpg');
+    color: black;
+  }
+  
+  .nightCloud{
+    background: url('./assets/nightCloud.jpg');
+    color: white;
+  }
+  
+  .dayCloud{
+    background: url('./assets/dayCloud.jpg');
+    color: black;
+  }
+
+  .App{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height:100vh;
+    width:100vw;
+    overflow: auto;
+  }
